@@ -1,0 +1,4 @@
+git status - check folder status 
+git commit - save file
+:q! 就可以強制關掉vim了（不存檔）
+:wq!則是會存檔
